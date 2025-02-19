@@ -1,0 +1,7 @@
+gtts
+SpeechRecognition
+pyttsx3
+wikipedia
+pywhatkit
+geopy
+pyaudio
